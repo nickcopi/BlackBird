@@ -32,8 +32,8 @@ echo "PG_MASSDNS=\"/opt/blackbird-tools/massdns/bin/massdns\"" >> ~/HOPC_Flyover
 
 ### Pre-req
 
-apt install golang
-apt install nmap
+apt install -y golang
+apt install -y nmap
 
 
 ### Folder Generation ###
